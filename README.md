@@ -1,1 +1,2 @@
-# csharp-cdk
+## Building the Elastic Beanstalk Environment
+Use the command `cdk synthesize --context solutionStackName='64bit Amazon Linux 2 v2.0.3 running .NET Core'` to generate a CloudFormation template and echo to the terminal. Use the command `cdk synthesize --context solutionStackName='64bit Amazon Linux 2 v2.0.3 running .NET Core'` to deploy the stack.
